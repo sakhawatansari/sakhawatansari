@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+![Picsart_22-08-28_13-33-57-772](https://user-images.githubusercontent.com/86127098/187064323-3afa17ba-e1fc-432e-837c-332cd52ff62f.jpg)
 
 <h1 align="center">Hi 👋, I'm Sakhawat Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
