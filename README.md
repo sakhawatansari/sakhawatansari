@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src='https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966' alt='facebook' height='30px'> , I'm Sakhawat Ansari </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a7205b7dfc38624b4ff4ad41d0bf68967d6d7dcd&rid=giphy.gif&ct=g" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesakhawatansari&label=Profile%20views&color=0e75b6&style=flat" alt="thesakhawatansari" /> </p>
 
