@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ASP.NET MVC**
 
-- 📫 How to reach me **Sakhawat.ansari@outlook.com**
+- 📫 How to reach me **asksakhawatansari@gmail.com**
 
 - ⚡ Fun fact **I mostly listen to chill & aesthetic music.**
 
