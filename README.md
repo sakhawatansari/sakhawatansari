@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thesakhawatansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesakhawatansari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamsakhawatansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamsakhawatansari" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sakhawat.ansari2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sakhawat Ansari" height="30" width="40" /></a>
 <a href="https://instagram.com/the_sakhawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_sakhawat" height="30" width="40" /></a>
 <a href="https://twitter.com/@the_sakhawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@the_sakhawat" height="30" width="40" /></a>
@@ -38,8 +38,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesakhawatansari&show_icons=true&locale=en&layout=compact" alt="iamsakhawatansari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesakhawatansari&show_icons=true&locale=en" alt="thesakhawatansari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsakhawatansari&show_icons=true&locale=en" alt="thesakhawatansari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesakhawatansari&" alt="iamsakhawatansari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsakhawatansari&" alt="iamsakhawatansari" /></p>
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
